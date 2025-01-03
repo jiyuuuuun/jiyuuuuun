@@ -1,9 +1,5 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=0078D7&width=435&lines=Welcome+to+Jiyun's+GitHub!; Backend+Developer+🚀;" alt="Typing SVG">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/jiyuuuuun/jiyuuuuun/main/교동.gif" alt="Mascot Image" width="200" height="200">
 </p>
 
@@ -92,6 +88,3 @@
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF6347&height=100&section=footer&text=Thank+You+For+Visiting!&fontSize=20&fontColor=ffffff" alt="Wave SVG">
-</p>
