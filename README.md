@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFC0CB&text=Jiyun+Github)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&text=Jiyun+Github)
 
 
 
