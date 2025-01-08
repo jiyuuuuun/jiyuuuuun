@@ -73,6 +73,7 @@
 <p align="center" style="font-size: small;"><b>📊 GitHub Stats</b></p>
 
 <p align="center">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2306BFC0&title_bg=%23555555&icon=sourcegraph.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuuuuun&layout=compact&bg_color=ffffff&title_color=002244&text_color=495057&icon_color=FFD700" alt="Top Languages">
 </p>
