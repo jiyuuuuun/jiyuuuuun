@@ -39,7 +39,7 @@
 <p align="center" style="font-size: small;"><b>📂 Featured Projects</b></p>
 
 <p align="center">
-  <a href="https://github.com/jiyuuuuun/project1">
+  <a href="https://github.com/jiyuuuuun/My_Favorite_Place">
     <img src="https://img.shields.io/badge/Project1-181717?style=flat-square&logo=github&logoColor=white" alt="Project1">
   </a>
   <a href="https://github.com/jiyuuuuun/project2">
