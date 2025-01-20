@@ -10,7 +10,7 @@
 ### 💻 Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,react,html,css" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" alt="Tech Stack">
 </a>
 
 ### 🛠 Tools
