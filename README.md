@@ -10,13 +10,13 @@
 ### 💻 Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,jpa,html,css" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,react,html,css" alt="Tech Stack">
 </a>
 
 ### 🛠 Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,aws,intellij,vscode,git" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=docker,aws,idea,gradle,vscode,git,notion" alt="Tools">
 </a>
 
 ### 📂 Featured Projects
