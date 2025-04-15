@@ -21,9 +21,9 @@
 
 ### 📂 Featured Projects
 
-- [**Project 1**](https://github.com/jiyuuuuun/My_Favorite_Place): Description of project 1.  
-- [**Project 2**](https://github.com/jiyuuuuun/project2): Description of project 2.  
-- [**Project 3**](https://github.com/jiyuuuuun/project3): Description of project 3.  
+- [**Project 1**](https://github.com/jiyuuuuun/My_Favorite_Place)
+- [**Project 2**](https://github.com/golden-dobakhe/Hakple.git)  
+- [**Project 3**](https://github.com/jiyuuuuun/project3)  
 
 ### 🧑‍💻 About Me
 
@@ -35,7 +35,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuuuuun&layout=compact&bg_color=ffffff&title_color=002244&text_color=495057&icon_color=FFD700" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuuuuun&layout=compact&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=999999" alt="Top Languages" height="150">
   
   <!-- Contribution Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jiyuuuuun&hide=contribs,prs&show_icons=true&theme=graywhite" alt="GitHub Stats" height="150">
