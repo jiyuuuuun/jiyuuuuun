@@ -21,15 +21,15 @@
 
 ### 📂 Featured Projects
 
-- [**Project 1**](https://github.com/jiyuuuuun/My_Favorite_Place)
-- [**Project 2**](https://github.com/golden-dobakhe/Hakple.git)  
+- [**Project 1**](https://github.com/golden-dobakhe/Hakple.git)  
+- [**Project 2**](https://github.com/jiyuuuuun/project3)
 - [**Project 3**](https://github.com/jiyuuuuun/project3)  
 
 ### 🧑‍💻 About Me
 
 - 📧 [Email](mailto:hwangjy001@naver.com)  
 - 📝 [Tistory Blog](https://jjiyuuuuun.tistory.com)  
-- 🌐 [Portfolio](https://your-github-page)
+- 🌐 [Portfolio](https://www.junocts.site)
 
 ### 📊 GitHub Stats
 
