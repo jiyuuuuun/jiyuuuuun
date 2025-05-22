@@ -1,11 +1,8 @@
 
 
-## 🌟 Jiyun's GitHub Profile 🌟
+## 🌟 황지윤 GitHub Profile 🌟
 
-🔧 Exploring Backend Development with Java, Spring Boot, and Docker.  
-🌐 Learning to design RESTful APIs and optimize database performance.  
-🤝 Growing as a team player who values collaboration and enjoys solving challenges.  
-<br>
+
 
 ### 💻 Tech Stack
 
@@ -21,7 +18,7 @@
 
 ### 📂 Featured Projects
 
-- [**Project 1**](https://github.com/golden-dobakhe/Hakple.git)  
+- [**Project 1**](https://github.com/golden-dobakhe/Hakple.git) 
 - [**Project 2**](https://github.com/jiyuuuuun/project3)
 - [**Project 3**](https://github.com/jiyuuuuun/project3)  
 
