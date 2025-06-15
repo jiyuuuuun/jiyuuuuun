@@ -19,7 +19,7 @@
 ### 📂 Featured Projects
 
 - [**Hakple : 학원생을 위한 커뮤니티 플랫폼**](https://github.com/golden-dobakhe/Hakple.git) 
-- [**Juseyo : 재고/자산 관리 플랫폼 *](https://github.com/treejh/JUSEYO.git)
+- [**Juseyo : 재고/자산 관리 플랫폼**](https://github.com/treejh/JUSEYO.git)
 - [**Project 3**](https://github.com/jiyuuuuun/project3)  
 
 ### 🧑‍💻 About Me
